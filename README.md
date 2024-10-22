@@ -31,4 +31,4 @@ This script calculates the Bull Bear Power (BBP) over a quarterly timeframe (60 
 
 ## License
 This script is free to use for any purpose.
-![Screenshot of BBP-Q Indicator](Screenshot.png)
+![Screenshot of BBP-Q Indicator]()
